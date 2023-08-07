@@ -44,7 +44,7 @@ https://ebac-tech-talks-azure.vercel.app/
 
    <p>Este projeto foi realizado por <a href="https://projeto-evento-aniversario.vercel.app/" target="_blank"><b>Diego Pazzini</b></a> e desenvolvido como parte do curso de Desenvolvedor Full Stack Java da EBAC.</p>
    <p>Agradeço por visitar o repositório do exercício do Módulo 22 - Landing Page de Evento! 
-     <br>Fique à vontade para entrar em contato caso tenha alguma dúvida ou sugestão.</p>
+    
 
   
  <h2>
