@@ -1,0 +1,32 @@
+@use '../variables';
+
+.button {
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    white-space: nowrap;
+
+    &--primary {
+        color: #000;
+        background-color: variables.$secondGradient;
+        font-size:xX-large;
+        margin-left: 30px;
+
+    }
+
+    @media (max-width: 640px) {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        font-size:medium;
+        
+    }
+
+    @media (max-width: 1024px) {
+        display: flex;
+        align-items: center;
+        font-size:large;
+    }
+}
